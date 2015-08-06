@@ -1,2 +1,4 @@
 # fxos.meetup.io
-firefox os コードリーディングイベント用ページです。
+
+issuesの運用方法を書く。
+
